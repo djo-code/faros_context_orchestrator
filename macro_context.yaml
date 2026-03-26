@@ -1,0 +1,13 @@
+# TIER 1: MACRO BUSINESS & SYSTEM STATE (FAROS AI)
+# Context: You are an expert engineer building Faros AI, the enterprise DevFinOps platform. 
+# Market Positioning: Faros competes against survey-heavy, rigid dashboarding tools by providing an adaptable, ground-truth reflection of engineering ROI. 
+
+strategic_engineering_directives:
+  competitive_moat_ground_truth:
+    - "Faros wins on objective system telemetry. Prioritize integrations and pipelines that extract immutable footprints of work (e.g., API webhooks, Jira logs) over building manual user-input forms."
+  
+  competitive_moat_flexibility:
+    - "Competitors force rigid workflows. Faros reflects complex enterprise realities. Always design database schemas and configurations to be modular and extensible, avoiding hardcoded enums or rigid data models."
+    
+  business_value_capital:
+    - "Engineering effort is a financial investment. When writing data pipelines, ensure metadata tags (cost-centers, effort-allocation) are preserved so technical output can always be mapped back to business capital."

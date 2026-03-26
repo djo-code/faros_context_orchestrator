@@ -1,0 +1,19 @@
+{
+  "event_type": "tms_TaskCompleted",
+  "timestamp": "2026-03-26T02:30:00Z",
+  "data": {
+    "task_id": "FAR-9482",
+    "title": "Migrate Payment Gateway to Stripe API",
+    "team": "BACKEND_CHECKOUT",
+    "developer_id": "dev_8841_jlopez",
+    "metrics": {
+      "cycle_time_days": 8.5,
+      "rework_ratio": 0.12
+    },
+    "finops_metadata": {
+      "cost_center": "CC-499-REVENUE_PLATFORM",
+      "capitalization_category": "CAPEX_NEW_FEATURE",
+      "estimated_cost_usd": 12500.00
+    }
+  }
+}
